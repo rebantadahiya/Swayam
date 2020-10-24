@@ -1,0 +1,47 @@
+body{
+  padding-top: 53px;
+}
+.mainpg{
+  padding-bottom: 3rem;
+}
+.mainTitle{
+  padding-top: 2rem;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+.index1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+}
+.index2{
+  background-color: #f9f7f7;
+  margin-bottom: 0;
+}
+.paraSpacing{
+  padding-top: 2rem;
+  line-height: 2rem;
+}
+.index3{
+  background-color: #112d4e;
+  color: white;
+  margin-bottom: 0;
+}
+.carouselCustom{
+  height: 250px;
+}
+.carouselPara{
+  padding: 2rem;
+}
+.testimonialsPara{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.mainAbout{
+  text-align: center;
+  padding-bottom: 3rem;
+}
+.index4{
+  background-color: #3f72af;
+  color: white;
+  margin-bottom: 0;
+}
