@@ -45,3 +45,19 @@ body{
   color: white;
   margin-bottom: 0;
 }
+@media (max-width: 600px) {
+  body{
+    font-size: 1.5rem;
+  }
+  .lead{
+    font-size: 1.5rem;
+  }
+  .display-3{
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  .display-4{
+    font-size: 3rem;
+    font-weight: bold;
+  }
+}
