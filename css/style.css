@@ -45,11 +45,23 @@ body{
   color: white;
   margin-bottom: 0;
 }
-@media (max-width: 1100px) {
+@media only screen and (max-width: 734px) {
   .lead{
     font-size: 1.5rem;
   }
   .carouselCustom{
+    height: 25rem;
+  }
+  .index1{
+    height: 25rem;
+  }
+  .index2{
+    height: 25rem;
+  }
+  .index3{
+    height: 25rem;
+  }
+  .index4{
     height: 25rem;
   }
 }
