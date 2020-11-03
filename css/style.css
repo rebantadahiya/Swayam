@@ -1,5 +1,5 @@
 body{
-  padding-top: 53px;
+  padding-top: 3rem;
 }
 .mainpg{
   padding-bottom: 3rem;
@@ -17,14 +17,71 @@ body{
   background-color: #f9f7f7;
   margin-bottom: 0;
 }
-.paraSpacing{
-  padding-top: 2rem;
-  line-height: 2rem;
-}
 .index3{
   background-color: #112d4e;
   color: white;
   margin-bottom: 0;
+}
+.index4{
+  background-color: #3f72af;
+  color: white;
+  margin-bottom: 0;
+}
+.about1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+}
+.about2{
+  background-color: #f9f7f7;
+  margin-bottom: 0;
+}
+.about3{
+  background-color: #112d4e;
+  color: white;
+  margin-bottom: 0;
+}
+.about4{
+  background-color: #3f72af;
+  color: white;
+  margin-bottom: 0;
+}
+.program1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+}
+.program2{
+  background-color: #f9f7f7;
+  margin-bottom: 0;
+}
+.program3{
+  background-color: #112d4e;
+  color: white;
+  margin-bottom: 0;
+}
+.program4{
+  background-color: #3f72af;
+  color: white;
+  margin-bottom: 0;
+}
+.contact1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+}
+.contact2{
+  background-color: #f9f7f7;
+  margin-bottom: 0;
+}
+.faq1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+}
+.testimonial1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+}
+.paraSpacing{
+  padding-top: 2rem;
+  line-height: 2rem;
 }
 .carouselCustom{
   height: 15rem;
@@ -40,17 +97,59 @@ body{
   text-align: center;
   padding-bottom: 3rem;
 }
-.index4{
-  background-color: #3f72af;
-  color: white;
-  margin-bottom: 0;
-}
 @media only screen and (max-width: 734px) {
   .lead{
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
   .carouselCustom{
     height: 25rem;
   }
-
+  .index1{
+    height: 60rem;
+  }
+  .index2{
+    height: 55rem;
+  }
+  .index3{
+    height: 40rem;
+  }
+  .index4{
+    height: 35rem;
+  }
+  .about1{
+    height: 100rem;
+  }
+  .about2{
+    height: 50rem;
+  }
+  .about3{
+    height: 65rem;
+  }
+  .about4{
+    height: 35rem;
+  }
+  .program1{
+    height: 40rem;
+  }
+  .program2{
+    height: 70rem;
+  }
+  .program3{
+    height: 40rem;
+  }
+  .program4{
+    height: 90rem;
+  }
+  .contact1{
+    height: 35rem;
+  }
+  .contact2{
+    height: 50rem;
+  }
+  .faq1{
+    height: 105rem;
+  }
+  .testimonial1{
+    height: 135rem;
+  }
 }
