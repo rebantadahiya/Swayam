@@ -102,54 +102,54 @@ body{
     font-size: 1.25rem;
   }
   .carouselCustom{
-    height: 25rem;
+    height: fit-content;
   }
   .index1{
-    height: 60rem;
+    height: fit-content;
   }
   .index2{
-    height: 55rem;
+    height: fit-content;
   }
   .index3{
-    height: 40rem;
+    height: fit-content;
   }
   .index4{
-    height: 35rem;
+    height: fit-content;
   }
   .about1{
-    height: 100rem;
+    height: fit-content;
   }
   .about2{
-    height: 50rem;
+    height: fit-content;
   }
   .about3{
-    height: 65rem;
+    height: fit-content;
   }
   .about4{
-    height: 35rem;
+    height: fit-content;
   }
   .program1{
-    height: 40rem;
+    height: fit-content;
   }
   .program2{
-    height: 70rem;
+    height: fit-content;
   }
   .program3{
-    height: 40rem;
+    height: fit-content;
   }
   .program4{
-    height: 90rem;
+    height: fit-content;
   }
   .contact1{
-    height: 35rem;
+    height: fit-content;
   }
   .contact2{
-    height: 50rem;
+    height: fit-content;
   }
   .faq1{
-    height: 105rem;
+    height: fit-content;
   }
   .testimonial1{
-    height: 135rem;
+    height: fit-content;
   }
 }
