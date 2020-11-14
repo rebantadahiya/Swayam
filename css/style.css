@@ -1,6 +1,14 @@
 body{
   padding-top: 3rem;
 }
+.logoFooter{
+  width: 50%;
+  height: auto;
+}
+.footerIndex{
+  background-color: white;
+  margin-bottom: 0;
+}
 .mainpg{
   padding-bottom: 3rem;
 }
