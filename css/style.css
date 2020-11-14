@@ -152,4 +152,9 @@ body{
   .testimonial1{
     height: fit-content;
   }
+  .carouselIndex{
+    font-size: 1rem;
+    font-weight: lighter;
+    font-stretch: condensed;
+  }
 }
