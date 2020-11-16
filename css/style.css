@@ -1,6 +1,26 @@
 body{
   padding-top: 3rem;
 }
+h1{
+  opacity:0.1;
+}
+p{
+  opacity:0.1;
+}
+li{
+  opacity:0.1;
+}
+.navbar-default{
+  transition:500ms ease;
+  background:#dbe2ef;
+}
+.scrolled{
+  background:#bbe1fa ;
+}
+.animation{
+  opacity:1;
+  transition:1200ms ease;
+}
 .logoFooter{
   width: 50%;
   height: auto;
@@ -87,6 +107,10 @@ body{
   background-color: #dbe2ef;
   margin-bottom: 0;
 }
+.sitemap1{
+  background-color: #dbe2ef;
+  margin-bottom: 0;
+}
 .paraSpacing{
   padding-top: 2rem;
   line-height: 2rem;
@@ -158,6 +182,9 @@ body{
     height: fit-content;
   }
   .testimonial1{
+    height: fit-content;
+  }
+  .sitemap1{
     height: fit-content;
   }
   .carouselIndex{
