@@ -55,7 +55,8 @@ li{
   padding-bottom: 2rem;
 }
 .index1{
-  background-color: #dbe2ef;
+  background-color: white;
+  background: linear-gradient(20deg, #bbe1fa 50%, #dbe2ef 50%);
   margin-bottom: 0;
   border-radius: 0;
 }
@@ -184,6 +185,12 @@ li{
   .index1{
     height: fit-content;
   }
+  .mainTransform{
+    font-size: 4rem;
+  }
+  .mainHead{
+    font-size: 2rem;
+  }
   .index2{
     height: fit-content;
   }
@@ -241,4 +248,3 @@ li{
     font-stretch: condensed;
   }
 }
-
