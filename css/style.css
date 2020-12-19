@@ -32,7 +32,7 @@ li{
   transition:1200ms ease;
 }
 .logoFooter{
-  width: 50%;
+  width: 60%;
   height: auto;
 }
 .footerIndex{
@@ -48,11 +48,11 @@ li{
   padding-bottom: 2rem;
 }
 .mainHead{
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 0rem;
+  padding-bottom: 1rem;
 }
 .mainTransform{
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
 }
 .index1{
   background-color: white;
@@ -83,6 +83,10 @@ li{
   margin-bottom: 0;
   border-radius: 0;
 }
+.fontBlack{
+  color: black;
+  text-align: center;
+}
 .index6{
   background-color: #c9d6df;
   margin-bottom: 0;
@@ -110,6 +114,12 @@ li{
   margin-bottom: 0;
   border-radius: 0;
 }
+.about5{
+  background-color: #393e46;
+  color: white;
+  margin-bottom: 0;
+  border-radius: 0;
+}
 .program1{
   background-color: #dbe2ef;
   margin-bottom: 0;
@@ -117,18 +127,6 @@ li{
 }
 .program2{
   background-color: #f9f7f7;
-  margin-bottom: 0;
-  border-radius: 0;
-}
-.program3{
-  background-color: #3f72af;
-  color: white;
-  margin-bottom: 0;
-  border-radius: 0;
-}
-.program4{
-  background-color: #112d4e;
-  color: white;
   margin-bottom: 0;
   border-radius: 0;
 }
@@ -174,6 +172,9 @@ li{
 .mainAbout{
   text-align: center;
   padding-bottom: 3rem;
+}
+.blogFont{
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
 }
 @media only screen and (max-width: 734px) {
   .lead{
