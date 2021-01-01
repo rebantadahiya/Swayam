@@ -13,6 +13,12 @@ li{
   opacity:0.1;
   font-family: 'Raleway', sans-serif;
 }
+.btCarousel{
+  margin-bottom: 10rem;
+}
+.imgcar{
+  opacity:0.4;
+}
 .navbarHead{
   font-family: 'Montserrat', sans-serif;
 }
@@ -56,9 +62,10 @@ li{
 }
 .index1{
   background-color: white;
-  background: linear-gradient(20deg, #bbe1fa 50%, #dbe2ef 50%);
+  background: -webkit-linear-gradient(#bbe1fa, #3f72af);
   margin-bottom: 0;
   border-radius: 0;
+  padding: 0;
 }
 .index2{
   background-color: #f9f7f7;
